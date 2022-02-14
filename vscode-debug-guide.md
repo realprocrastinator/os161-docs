@@ -21,7 +21,7 @@ vscode是一个IDE（Integrated Development Environment）,它提供了一个友
 ### 安装WSL
 
 - 可以阅读[MS官网的文档](https://docs.microsoft.com/en-us/windows/wsl/install)进行安装，注意windows11和windows10的安装方法不同！
-- 也可以阅读[我的文档](./wsl/wsl-setup)。
+- 也可以阅读[我的文档](./wsl/wsl-setup.md)。
 
 ### 安装WSL Remote扩件
 
